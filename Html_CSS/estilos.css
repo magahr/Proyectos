@@ -1,0 +1,15 @@
+h1{
+    color: blueviolet;
+}
+p{
+    color: blue;
+}
+div{
+    color: brown;
+}
+.padre{
+    background: red;
+    height: 100px;
+    width: 300px;
+margin-top: 200px;
+}
