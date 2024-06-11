@@ -1,3 +1,4 @@
+
 print("Hola Mundo")
 numero = 10
 numero2 = 10
@@ -9,3 +10,9 @@ print ("valor de la posicion de memoria de numero2 ", id(numero2))
 print ("valor de numero3 ", numero3)
 print ("valor de la posicion de memoria de numero3 ", id(numero3))
 print ("Tipo de datos de la variable numero ", type(numero))
+
+letra = "Prueba"
+print ("Tpo de la variable letra :", type(letra))
+lista = [1,2,3,4,5,6,7]
+print('Valor de la lista : ',lista)
+print('El tipo de esta variable es ', type(lista))
