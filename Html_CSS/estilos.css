@@ -9,7 +9,13 @@ div{
 }
 .padre{
     background: red;
-    height: 100px;
+    height: 300px;
     width: 300px;
-margin-top: 200px;
+    margin: 50px 50px 100px 100px;
+}
+.hijo{
+    height: 100px;
+    width: 100px;
+    background: black;
+    padding: 100px;
 }
