@@ -1,5 +1,5 @@
-h1{
-    color: blueviolet;
+h3{
+    color: rgb(226, 43, 43);
 }
 p{
     color: blue;
@@ -7,15 +7,23 @@ p{
 div{
     color: brown;
 }
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
 .padre{
     background: red;
     height: 300px;
     width: 300px;
-    margin: 50px 50px 100px 100px;
+    /*margin: 20px; se separa 20 pixels de todos los lados*/
+    padding: 20px;
 }
 .hijo{
     height: 100px;
     width: 100px;
     background: black;
-    padding: 100px;
+    margin: 50px 50px 100px 100px;
 }
+
