@@ -16,3 +16,20 @@ print ("Tpo de la variable letra :", type(letra))
 lista = [1,2,3,4,5,6,7]
 print('Valor de la lista : ',lista)
 print('El tipo de esta variable es ', type(lista))
+
+diccionario = {
+    "nombre": "Adrian"
+}
+print("Dictionary ", diccionario["nombre"])
+
+estudiantes = ["Manuel", "Johonatha"]
+
+print("Estudiantes antes de ingregar ", estudiantes)
+estudiantes.append("pepito")
+print("Estudiantes despues de ingregar ", estudiantes)
+curso = {
+    'nombre':'full stack',
+    'categoria':'Tecnologia',
+    'grupo':8
+}
+print (curso)
