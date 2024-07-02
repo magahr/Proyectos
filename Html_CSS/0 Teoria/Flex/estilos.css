@@ -1,0 +1,107 @@
+h3{
+    color: rgb(226, 43, 43);
+}
+p{
+    color: blue;
+}
+div{
+    color: brown;
+}
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    background: black;
+}
+
+
+
+.container2{
+    background: #b1afb8;
+    display: flex;
+    justify-content: center; /*centra los elementos de izquierda a derecha*/
+    align-items: center;     /*ordena los elementos de arriba a abajo*/
+    height: 100vh;           /*vh, que el container invada el 100% de la pantalla*/
+}
+.boxcontainer{
+    background: blue;
+    height: 400px;
+    width: 400px;
+    display: flex;
+    justify-content: center; /*centra los elementos de izquierda a derecha*/
+    align-items: center;     /*ordena los elementos de arriba a abajo*/
+    height: 100vh;           /*vh, que el container invada el 100% de la pantalla*/
+    border-radius: 15px;
+}
+.uno{
+    background: #eb8220;
+    height: 400px;
+    width: 400px;
+    border-radius: 15px;
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+.container{
+    background: #7a135120;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100vh;        /*aqui es 100 al tamaño de la pantalla*/
+    flex-wrap: wrap;      /*aqui cuando haya uno que no quepa lo pone en la fila siguiente si si hacer reponsive*/
+    gap: 50px;            /*espacio entre elementos en forma automatica*/
+}
+.uno{
+    background: rgb(255, 102, 0);
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+.dos{
+    background: #2250ff;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+.tres{
+    background: #22a7ff;
+    width: 200px;
+    height: 200px;
+    border-radius: 15px;
+}
+
+
+
+
+
+.padre{
+    background: red;
+    height: 300px;
+    width: 300px;
+    /*margin: 20px; se separa 20 pixels de todos los lados*/
+    padding: 20px;
+}
+.hijo{
+    height: 100px;
+    width: 100px;
+    background: black;
+    margin: 50px 50px 100px 100px;
+}
+p span{
+    color: rgb(255, 0, 221);
+
+}
+
+    
+
