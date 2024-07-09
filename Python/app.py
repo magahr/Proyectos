@@ -1,6 +1,2 @@
-
-
-a = True
-b = False
-
-print(a and b)
+import operacionesmatematicas as operacion
+print(operacion.suma(3,3))
