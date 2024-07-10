@@ -1,0 +1,17 @@
+body{
+    font-family: sans-serif;
+}
+a{
+   text-decoration: none;
+   color: white;
+}
+header{
+    display: flex;
+    background-color: #14161a;
+}
+.logo{
+    display: flex;
+}
+.logo img{
+    height: 5px;
+}
