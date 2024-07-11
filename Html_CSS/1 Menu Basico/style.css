@@ -1,5 +1,6 @@
 body{
     font-family: sans-serif;
+    margin: 0;
 }
 a{
    text-decoration: none;
@@ -8,10 +9,33 @@ a{
 header{
     display: flex;
     background-color: #14161a;
+    min-height: 70x;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
 }
 .logo{
     display: flex;
+    align-items: center;
+    margin-right: 10px;
 }
 .logo img{
-    height: 5px;
+    height: 50px;
+    margin-right: 12px;
+}
+nav a{
+    font-weight: 600;
+    padding-right: 12;
+}
+nav a:hover{
+    color: burlywood;  /*esto es para que cuando se coloque el mouse sobre las opciones de navegacion se coloque en amarillo*/
+}
+@media(max-width: 680px){
+    header{
+        flex-direction: column;
+    }
+    nav{
+        padding: 10px 0px; /*0 pixeles de izquierda a drecha*/
+    }
+
 }
