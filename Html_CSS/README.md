@@ -12,3 +12,6 @@
 #   https://developer.mozilla.org/es/
 #   capturar el color de la pantalla
 #   https://www.google.com/search?client=firefox-b-d&q=just+color+picker
+
+# repositorio codigo 369, de los diferentes proyectos
+# https://github.com/Franklin369/proyectos-html-css-1-al-5.git
