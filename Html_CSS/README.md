@@ -1,5 +1,5 @@
 #   https://www.youtube.com/watch?v=AXPASVeX74o</h3>
-#   voy por el minu 2:028 11/07/2024
+#   voy por el minu 2:042 16/07/2024
 
 # video de configuracion de 
 # https://www.youtube.com/watch?v=7W6-jSOFMgM

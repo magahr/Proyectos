@@ -1,0 +1,14 @@
+body{
+    font-size: small;
+    background-color: aquamarine;
+
+}
+.imagenes-container{
+   margin: 100px; 
+   auto;
+   width: 500px;
+   display: flex;
+}
+.imagenes-container image{
+
+}
