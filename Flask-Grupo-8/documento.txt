@@ -1,0 +1,4 @@
+ source venv/Scripts/activate
+ 1.- instalar flsk con pip
+     pip install flask
+     pip list
