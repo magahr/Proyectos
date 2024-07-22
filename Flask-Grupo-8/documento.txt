@@ -2,3 +2,4 @@
  1.- instalar flsk con pip
      pip install flask
      pip list
+     voy por el minuto 058 del video
