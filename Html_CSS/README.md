@@ -1,5 +1,5 @@
 #   https://www.youtube.com/watch?v=AXPASVeX74o</h3>
-#   voy por el minu 3:51 31/07/2024
+#   voy por el minu 04:14 04/08/2024
 
 # video de configuracion de 
 # https://www.youtube.com/watch?v=7W6-jSOFMgM
@@ -15,3 +15,7 @@
 
 # repositorio codigo 369, de los diferentes proyectos
 # https://github.com/Franklin369/proyectos-html-css-1-al-5.git
+
+#iconos de google para no tener que implementarlos
+https://developers.google.com/fonts/docs/material_icons?hl=es-419
+
