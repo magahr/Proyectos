@@ -39,5 +39,27 @@
 
   }
   
+.search-bar input{
+     border: none;
+     outline: none;
+     pad: 10px;
+     font-size: 18px;
+     flex: auto;
 
-  
+}
+.search-bar .actions{
+    display: flex;
+    gap: 5px;
+}
+
+.search-bar .actions button{
+    border: none;
+    outline: none;
+    background: none;
+    cursor: pointer;
+    color: red;
+}
+
+.search-bar .actions button>:hover{
+
+}
